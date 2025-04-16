@@ -23,6 +23,7 @@ keresztül.
 ## 🧑‍💻 Projektjeim:
 
 <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
+  <b>Helios</b>
   <img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png">
 </a>
 
