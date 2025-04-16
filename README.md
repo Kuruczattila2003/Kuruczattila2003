@@ -39,6 +39,6 @@ keresztül.
 
 <p></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuruczattila2003&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuruczattila2003&theme=tokyonight)
 
 
