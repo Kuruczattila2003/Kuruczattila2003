@@ -22,7 +22,7 @@ keresztül.
 
 ## 🧑‍💻 Projektjeim:
 
-<a href="[https://github.com/ashwanisng/Covid-19-Data-Analysis](https://github.com/Kuruczattila2003/Hausaufgabe3)">
+<a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuruczattila2003&repo=Kuruczattila2003/Hausaufgabe3&theme=radical" />
 </a> 
 
