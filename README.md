@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e436ebad-d811-478f-b39f-39f6bd566065)# 👋 Kurucz Attila vagyok!
+#👋 Kurucz Attila vagyok!
 
 🎓 Jelenleg a Budapesti Műszaki és Gazdaságtudományi Egyetem Villamosmérnöki és Informatikai Karán tanulok mérnökinformatikus szakon, a 6. félévemet végzem.
 
