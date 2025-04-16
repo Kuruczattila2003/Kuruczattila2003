@@ -23,9 +23,9 @@ keresztül.
 ## 🧑‍💻 Projektjeim:
 <p>(Kattints a képre a megtekintéshez)</p>
 
-<div style="display: flex; align-items: center;">
-  <b style="margin-right: 100px;">Helios</b>
-  <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
+<div>
+  <b>Helios</b>
+  <a style="margin-left: 100px;" href="https://github.com/Kuruczattila2003/Hausaufgabe3">
     <img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
   </a>
 </div>
