@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Helló, Kurucz Attila vagyok!
 
-<!--
-**Kuruczattila2003/Kuruczattila2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Jelenleg a Budapesti Műszaki és Gazdaságtudományi Egyetem Villamosmérnöki és Informatikai Karán tanulok mérnökinformatikus szakon, a 6. félévemet végzem.
 
-Here are some ideas to get you started:
+💻 Szenvedélyem a szoftverfejlesztés, különös érdeklődést mutatok a játékszoftverek és az IT biztonság iránt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technológiák és eszközök
+
+- **Programozási nyelvek:** C, C++, Java, Python
+- **Keretek és könyvtárak:** PyTorch
+
+## 🚀 Aktuális projektek
+
+- **Autonomous Grand Challenge 2025** – Egy autonóm járművek fejlesztését célzó kihívásban veszek részt.
+- **CompTIA Security+** – Felkészülés a CompTIA Security+ tanúsítvány megszerzésére.
+
+## 🎮 Hobbijaim
+
+- Játékfejlesztés
+- IT biztonság
+
+📫 Jelenleg nem adtam meg közösségi média vagy portfólió linkeket. Ha szeretnél kapcsolatba lépni velem, kérlek, írj egy üzenetet itt a GitHubon keresztül.
+
+Köszönöm, hogy meglátogattad a profilomat!
