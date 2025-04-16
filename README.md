@@ -34,7 +34,7 @@ keresztül.
 <p></p>
 
 <a href="https://github.com/Kuruczattila2003/MNIST_CNN">
-  <img src="images/tensorflow-Photoroom.png" width="300" height="100"></img>
+  <img src="images/tensorflow-Photoroom.png" width="350" height="100"></img>
 </a>
 
 <p></p>
