@@ -24,7 +24,7 @@ keresztül.
 <p>(Kattints a képre a megtekintéshez)</p>
 
 <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-  <img src="images/Helios-Photoroom.png" width="400" height="100"></img>
+  <img src="images/Helios-Photoroom.png" width="300" height="100"></img>
 </a>
 
 
