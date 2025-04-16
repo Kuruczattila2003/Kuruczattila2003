@@ -24,26 +24,15 @@ keresztül.
 <p>(Kattints a képre a megtekintéshez)</p>
 
 
-<div>
-  <b>Helios</b>
-  <a align="right" href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-    <img height="70" src="images/Helios-Photoroom.png" alt="PyTorch Logo">
-  </a>
-</div>
-<p></p> 
-<div>
-  <b>Dungeon 1</b>
-  <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-    <img height="70" src="images/Prog2-Photoroom.png" alt="PyTorch Logo">
-  </a>
-</div>
-<p></p> 
-<div>
-  <b>Karakter felismerő</b>
-  <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-      <img height="50" src="images/tensorflow.png" alt="TensorFlow Logo">
-  </a>
-</div>
+<a href="https://github.com/your-username/your-repo" target="_blank">
+  <div style="display: flex; align-items: center; border: 1px solid #ccc; border-radius: 10px; padding: 10px; margin: 10px 0; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/your-username/your-repo/main/preview.png" alt="Project Preview" style="width: 100px; height: 100px; object-fit: cover; border-radius: 10px; margin-right: 15px;">
+    <div>
+      <h3 style="margin: 0; color: #0366d6;">Project Title</h3>
+      <p style="margin: 5px 0 0; color: #586069;">A brief description of your project.</p>
+    </div>
+  </div>
+</a>
 
 
 
