@@ -23,7 +23,7 @@ keresztül.
 ## 🧑‍💻 Projektjeim:
 <p>(Kattints a képre a megtekintéshez)</p>
 
-<div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <b>Helios</b>
   <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
     <img height="100" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
