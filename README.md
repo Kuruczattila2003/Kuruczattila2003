@@ -33,7 +33,21 @@ keresztül.
 <div>
   <b>Helios</b>
   <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-    <img height="100" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
+    <img height="70" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
+  </a>
+</div>
+
+<div>
+  <b>Helios</b>
+  <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
+    <img height="70" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
+  </a>
+</div>
+
+<div>
+  <b>Helios</b>
+  <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
+      <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/6/60/OpenCV_logo_2015.svg" alt="OpenCV Logo">
   </a>
 </div>
 
