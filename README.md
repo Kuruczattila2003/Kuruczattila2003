@@ -1,4 +1,4 @@
-# 👋 Kurucz Attila vagyok!
+![image](https://github.com/user-attachments/assets/e436ebad-d811-478f-b39f-39f6bd566065)# 👋 Kurucz Attila vagyok!
 
 🎓 Jelenleg a Budapesti Műszaki és Gazdaságtudományi Egyetem Villamosmérnöki és Informatikai Karán tanulok mérnökinformatikus szakon, a 6. félévemet végzem.
 
@@ -35,6 +35,10 @@ keresztül.
 
 <a href="https://github.com/Kuruczattila2003/MNIST_CNN">
   <img src="images/tensorflow-Photoroom.png" width="400" height="100"></img>
+</a>
+
+<a href="https://github.com/INemet-SzoftPtojLab-2024/iLaby">
+  <img src="images/Ilaby.png" width="400" height="100"></img>
 </a>
 
 <p></p>
