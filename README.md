@@ -26,22 +26,22 @@ keresztül.
 
 <div>
   <b>Helios</b>
-  <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-    <img height="70" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
+  <a align="right" href="https://github.com/Kuruczattila2003/Hausaufgabe3">
+    <img height="70" src="images/Helios-Photoroom.png" alt="PyTorch Logo">
   </a>
 </div>
-
+<p></p> 
 <div>
-  <b>Helios</b>
+  <b>Dungeon 1</b>
   <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-    <img height="70" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
+    <img height="70" src="images/Prog2-Photoroom.png" alt="PyTorch Logo">
   </a>
 </div>
-
+<p></p> 
 <div>
-  <b>Helios</b>
+  <b>Karakter felismerő</b>
   <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-      <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/TensorFlow_logo.svg" alt="TensorFlow Logo">
+      <img height="50" src="images/tensorflow.png" alt="TensorFlow Logo">
   </a>
 </div>
 
