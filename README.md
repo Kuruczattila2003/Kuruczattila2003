@@ -22,13 +22,9 @@ keresztül.
 
 ## 🧑‍💻 Projektjeim:
 
-<p align="left">
-  <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-    <img src="https://img.shields.io/badge/Helios-orange?style=for-the-badge" alt="Projlab">
-  </a>
-</p>
-
-![Kuruczattila2b GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuruczattila2003&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true)
+<a href="https://github.com/ashwanisng/Covid-19-Data-Analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuruczattila2003&repo=https://github.com/Kuruczattila2003/Hausaufgabe3&theme=radical" />
+</a> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuruczattila2003&layout=compact&theme=tokyonight)
 
