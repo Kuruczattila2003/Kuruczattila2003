@@ -1,4 +1,4 @@
-# 👋 Helló, Kurucz Attila vagyok!
+# 👋 Kurucz Attila vagyok!
 
 🎓 Jelenleg a Budapesti Műszaki és Gazdaságtudományi Egyetem Villamosmérnöki és Informatikai Karán tanulok mérnökinformatikus szakon, a 6. félévemet végzem.
 
@@ -17,7 +17,7 @@
 ## 🎮 Hobbijaim
 
 - Játékfejlesztés
-- IT biztonság
+- IT biztonság - Hackthebox
 
 📫 Jelenleg nem adtam meg közösségi média vagy portfólió linkeket. Ha szeretnél kapcsolatba lépni velem, kérlek, írj egy üzenetet itt a GitHubon keresztül.
 
