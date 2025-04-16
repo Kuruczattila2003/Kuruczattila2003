@@ -1,4 +1,4 @@
-#👋 Kurucz Attila vagyok!
+## 👋 Kurucz Attila vagyok!
 
 🎓 Jelenleg a Budapesti Műszaki és Gazdaságtudományi Egyetem Villamosmérnöki és Informatikai Karán tanulok mérnökinformatikus szakon, a 6. félévemet végzem.
 
