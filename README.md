@@ -23,7 +23,7 @@ keresztül.
 ## 🧑‍💻 Projektjeim:
 <p>(Kattints a képre a megtekintéshez)</p>
 
-<a href="https://github.com/your-username/your-repo" target="_blank" style="text-decoration: none;">
+<a href="https://github.com/Kuruczattila2003/Hausaufgabe3" target="_blank" style="text-decoration: none;">
   <div style="display: flex; align-items: center; border: 2px solid #e1e4e8; border-radius: 10px; padding: 10px; background-color: #f9f9f9; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <img src="images/Helios-Photoroom.png" alt="Project Preview" style="width: 80px; height: 80px; object-fit: cover; border-radius: 8px; margin-right: 15px;">
     <div>
