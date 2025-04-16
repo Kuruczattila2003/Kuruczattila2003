@@ -25,7 +25,7 @@ keresztül.
 
 <div>
   <b>Helios</b>
-  <a style="margin-left: 100px;" href="https://github.com/Kuruczattila2003/Hausaufgabe3">
+  <a style="margin-left: 200px;" href="https://github.com/Kuruczattila2003/Hausaufgabe3">
     <img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
   </a>
 </div>
