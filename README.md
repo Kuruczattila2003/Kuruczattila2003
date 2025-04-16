@@ -21,7 +21,7 @@
 keresztül.
 
 ## 🧑‍💻 Projektjeim:
-(Kattints a képre a megtekintéshez)
+<p>(Kattints a képre a megtekintéshez)</p>
 <b>Helios</b>
 <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
  
