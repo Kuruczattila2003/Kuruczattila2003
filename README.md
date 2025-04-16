@@ -23,7 +23,7 @@ keresztül.
 ## 🧑‍💻 Projektjeim:
 <p>(Kattints a képre a megtekintéshez)</p>
 
-<a href="https://github.com/Kuruczattila2003/Hausaufgabe3" target="_blank" style="text-decoration: none;">
+<a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
   <img href="images/Helios-Photoroom.png"></img>
 </a>
 
