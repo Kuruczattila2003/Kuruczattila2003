@@ -26,14 +26,14 @@ keresztül.
 <div>
   <b>Helios</b>
   <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-    <img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
+    <img height="100" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
   </a>
 </div>
 
 <div>
   <b>Helios</b>
   <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-    <img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
+    <img height="100" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
   </a>
 </div>
 
