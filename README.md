@@ -28,13 +28,13 @@ keresztül.
 </a>
 <p></p>
 
-<a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-  <img src="images/Helios-Photoroom.png" width="300" height="100"></img>
+<a href="https://github.com/Kuruczattila2003/Dungeon_Adventure">
+  <img src="images/Prog2-Photoroom.png" width="300" height="100"></img>
 </a>
 <p></p>
 
-<a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-  <img src="images/Helios-Photoroom.png" width="300" height="100"></img>
+<a href="https://github.com/Kuruczattila2003/MNIST_CNN">
+  <img src="images/tensorflow-Photoroom.png" width="300" height="100"></img>
 </a>
 
 <p></p>
