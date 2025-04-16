@@ -23,12 +23,6 @@ keresztül.
 ## 🧑‍💻 Projektjeim:
 <p>(Kattints a képre a megtekintéshez)</p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <b>Helios</b>
-  <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-    <img height="100" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch Logo">
-  </a>
-</div>
 
 <div>
   <b>Helios</b>
@@ -47,7 +41,7 @@ keresztül.
 <div>
   <b>Helios</b>
   <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-      <img height="70" src="https://upload.wikimedia.org/wikipedia/commons/6/60/OpenCV_logo_2015.svg" alt="OpenCV Logo">
+      <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/TensorFlow_logo.svg" alt="TensorFlow Logo">
   </a>
 </div>
 
