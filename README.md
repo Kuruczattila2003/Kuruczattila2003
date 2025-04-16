@@ -32,14 +32,14 @@ keresztül.
 </div>
 <p></p> 
 <div>
-  <b>Helios</b>
+  <b>Dungeon 1</b>
   <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
     <img height="70" src="images/Prog2.png" alt="PyTorch Logo">
   </a>
 </div>
 <p></p> 
 <div>
-  <b>Helios</b>
+  <b>Karakter felismerő</b>
   <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
       <img height="50" src="images/tensorflow.png" alt="TensorFlow Logo">
   </a>
