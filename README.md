@@ -23,8 +23,10 @@ keresztül.
 ## 🧑‍💻 Projektjeim:
 
 <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuruczattila2003&theme=radical" />
-</a> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuruczattila2003&repo=Hausaufgabe3&theme=radical" />
+</a>
+
+<p></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuruczattila2003&layout=compact&theme=tokyonight)
 
