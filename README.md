@@ -26,15 +26,15 @@ keresztül.
 
 <div>
   <b>Helios</b>
-  <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-    <img height="70" src="images/Helios.png" alt="PyTorch Logo">
+  <a align="right" href="https://github.com/Kuruczattila2003/Hausaufgabe3">
+    <img height="70" src="images/Helios-Photoroom.png" alt="PyTorch Logo">
   </a>
 </div>
 <p></p> 
 <div>
   <b>Dungeon 1</b>
   <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-    <img height="70" src="images/Prog2.png" alt="PyTorch Logo">
+    <img height="70" src="images/Prog2-Photoroom.png" alt="PyTorch Logo">
   </a>
 </div>
 <p></p> 
