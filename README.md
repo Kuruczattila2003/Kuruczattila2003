@@ -26,7 +26,16 @@ keresztül.
 <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
   <img src="images/Helios-Photoroom.png" width="300" height="100"></img>
 </a>
+<p></p>
 
+<a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
+  <img src="images/Helios-Photoroom.png" width="300" height="100"></img>
+</a>
+<p></p>
+
+<a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
+  <img src="images/Helios-Photoroom.png" width="300" height="100"></img>
+</a>
 
 <p></p>
 
