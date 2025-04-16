@@ -29,7 +29,7 @@ keresztül.
 <p></p>
 
 <a href="https://github.com/Kuruczattila2003/Dungeon_Adventure">
-  <img src="images/Prog2-Photoroom.png" width="300" height="100"></img>
+  <img src="images/Prog2-photo.png" width="300" height="100"></img>
 </a>
 <p></p>
 
