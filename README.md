@@ -18,7 +18,16 @@
 
 - Játékfejlesztés
 - IT biztonság - Hackthebox
-
-📫 Jelenleg nem adtam meg közösségi média vagy portfólió linkeket. Ha szeretnél kapcsolatba lépni velem, kérlek, írj egy üzenetet itt a GitHubon keresztül.
+keresztül.
 
 Köszönöm, hogy meglátogattad a profilomat!
+
+<p align="center">
+  <a href="https://github.com/felhasznalonev/Autonomous-Grand-Challenge-2025">
+    <img src="https://img.shields.io/badge/Autonomous%20Grand%20Challenge%202025-blue?style=for-the-badge" alt="Autonomous Grand Challenge 2025">
+  </a>
+  <a href="https://github.com/felhasznalonev/CompTIA-Security-Plus">
+    <img src="https://img.shields.io/badge/CompTIA%20Security%2B-red?style=for-the-badge" alt="CompTIA Security+">
+  </a>
+</p>
+
