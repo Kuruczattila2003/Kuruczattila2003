@@ -6,8 +6,8 @@
 
 ## 🛠️ Technológiák és eszközök
 
-- **Programozási nyelvek:** C, C++, Java, Python
-- **Keretek és könyvtárak:** PyTorch
+- **Programozási nyelvek:** C, C++, C#, Java, Python
+- **Keretek és könyvtárak:** PyTorch, Tensorflow, JavaSwing, OpenCV
 
 ## 🚀 Aktuális projektek
 
@@ -17,7 +17,7 @@
 ## 🎮 Hobbijaim
 
 - Játékfejlesztés
-- IT biztonság - Hackthebox
+- IT biztonság - CompTIA Security+ youtube videók segítségével
 keresztül.
 
 ## 🧑‍💻 Projektjeim:
