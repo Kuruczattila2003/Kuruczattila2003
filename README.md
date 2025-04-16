@@ -20,7 +20,7 @@
 - IT biztonság - Hackthebox
 keresztül.
 
-Projektjeim:
+## 🧑‍💻 Projektjeim:
 
 <p align="left">
   <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
