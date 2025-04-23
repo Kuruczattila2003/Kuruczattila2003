@@ -15,7 +15,7 @@
 - **CompTIA Security+** – Felkészülés a CompTIA Security+ tanúsítvány megszerzésére.
 
 ## 🎮 Hobbijaim
-
+- Zongora
 - Játékfejlesztés
 - IT biztonság - CompTIA Security+ youtube videók segítségével
 keresztül.
