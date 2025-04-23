@@ -7,7 +7,7 @@
 ## 🛠️ Technológiák és eszközök
 
 - **Programozási nyelvek:** C, C++, C#, Swift, Java, Python
-- **Keretrendszerek és könyvtárak:** PyTorch, Tensorflow, Keras, JavaSwing, OpenCV
+- **Keretrendszerek és könyvtárak:** PyTorch, Tensorflow, Keras, JavaSwing, OpenCV, .NET, Unity
 
 ## 🚀 Aktuális projektek
 
