@@ -6,12 +6,12 @@
 
 ## 🛠️ Technológiák és eszközök
 
-- **Programozási nyelvek:** C, C++, C#, Java, Python
-- **Keretek és könyvtárak:** PyTorch, Tensorflow, JavaSwing, OpenCV
+- **Programozási nyelvek:** C, C++, C#, Swift, Java, Python
+- **Keretrendszerek és könyvtárak:** PyTorch, Tensorflow, Keras, JavaSwing, OpenCV
 
 ## 🚀 Aktuális projektek
 
-- **Autonomous Grand Challenge 2025** – Egy autonóm járművek fejlesztését célzó kihívásban veszek részt.
+- **Autonomous Grand Challenge 2025** – Egy autonóm járművek fejlesztését célzó kihívásban veszek részt. - Python, Pytorch
 - **CompTIA Security+** – Felkészülés a CompTIA Security+ tanúsítvány megszerzésére.
 
 ## 🎮 Hobbijaim
