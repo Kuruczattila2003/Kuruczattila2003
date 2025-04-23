@@ -33,13 +33,19 @@ keresztül.
 </a>
 <p></p>
 
-<a href="https://github.com/Kuruczattila2003/Dungeon_Adventure">
-  <img src="images/Prog2_photo.png" width="350" height="100"></img>
+<a href="https://github.com/Kuruczattila2003/MNIST_CNN">
+  <img src="images/tensorflow-Photoroom.png" width="400" height="100"></img>
 </a>
 <p></p>
 
-<a href="https://github.com/Kuruczattila2003/MNIST_CNN">
-  <img src="images/tensorflow-Photoroom.png" width="400" height="100"></img>
+<a href="https://www.hackingwithswift.com/100">
+  <img src="images/Swift.jpg" width="400" height="100"></img>
+</a>
+
+<p></p>
+
+<a href="https://github.com/Kuruczattila2003/Dungeon_Adventure">
+  <img src="images/Prog2_photo.png" width="350" height="100"></img>
 </a>
 <p></p>
 
@@ -47,11 +53,7 @@ keresztül.
   <img src="images/Ilaby-Photoroom.png" width="400" height="100"></img>
 </a>
 <p></p>
-<a href="https://www.hackingwithswift.com/100">
-  <img src="images/Swift.jpg" width="400" height="100"></img>
-</a>
 
-<p></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuruczattila2003&theme=tokyonight)
 
