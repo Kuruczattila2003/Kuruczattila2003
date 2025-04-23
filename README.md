@@ -29,7 +29,7 @@ keresztül.
 <p></p>
 
 <a href="https://github.com/INemet-SzoftPtojLab-2024/iLaby">
-  <img src="images/ML.jpg" width="300" height="100"></img>
+  <img src="images/ML.jpg" width="400" height="100"></img>
 </a>
 <p></p>
 
