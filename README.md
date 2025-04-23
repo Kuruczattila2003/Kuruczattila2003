@@ -42,6 +42,14 @@ keresztül.
   <img src="images/Ilaby-Photoroom.png" width="400" height="100"></img>
 </a>
 
+<a href="https://github.com/INemet-SzoftPtojLab-2024/iLaby">
+  <img src="images/Pytorch.jpg" width="400" height="100"></img>
+</a>
+
+<a href="https://github.com/INemet-SzoftPtojLab-2024/iLaby">
+  <img src="images/Swift.jpg" width="400" height="100"></img>
+</a>
+
 <p></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuruczattila2003&theme=tokyonight)
