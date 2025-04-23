@@ -24,17 +24,17 @@ keresztül.
 <p>(Kattints a képre a megtekintéshez)</p>
 
 <a href="https://github.com/Kuruczattila2003/Hausaufgabe3">
-  <img src="images/Helios-Photoroom.png" width="300" height="100"></img>
+  <img src="images/Helios-Photoroom.png" width="200" height="70"></img>
 </a>
 <p></p>
 
 <a href="https://github.com/INemet-SzoftPtojLab-2024/iLaby">
-  <img src="images/ML.jpg" width="400" height="100"></img>
+  <img src="images/ML.jpg" width="300" height="70"></img>
 </a>
 <p></p>
 
 <a href="https://github.com/Kuruczattila2003/MNIST_CNN">
-  <img src="images/tensorflow-Photoroom.png" width="400" height="100"></img>
+  <img src="images/tensorflow-Photoroom.png" width="300" height="70"></img>
 </a>
 <p></p>
 
