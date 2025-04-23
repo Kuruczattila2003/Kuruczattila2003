@@ -28,6 +28,11 @@ keresztül.
 </a>
 <p></p>
 
+<a href="https://github.com/INemet-SzoftPtojLab-2024/iLaby">
+  <img src="images/Pytorch.jpg" width="400" height="100"></img>
+</a>
+<p></p>
+
 <a href="https://github.com/Kuruczattila2003/Dungeon_Adventure">
   <img src="images/Prog2_photo.png" width="350" height="100"></img>
 </a>
@@ -40,10 +45,6 @@ keresztül.
 
 <a href="https://github.com/INemet-SzoftPtojLab-2024/iLaby">
   <img src="images/Ilaby-Photoroom.png" width="400" height="100"></img>
-</a>
-<p></p>
-<a href="https://github.com/INemet-SzoftPtojLab-2024/iLaby">
-  <img src="images/Pytorch.jpg" width="400" height="100"></img>
 </a>
 <p></p>
 <a href="https://www.hackingwithswift.com/100">
