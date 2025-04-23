@@ -28,7 +28,7 @@ keresztül.
 </a>
 <p></p>
 
-<a href="https://github.com/INemet-SzoftPtojLab-2024/iLaby">
+<a href="https://github.com/Kuruczattila2003/Pytorch_Tensorflow_Projects">
   <img src="images/ML.jpg" width="300" height="70"></img>
 </a>
 <p></p>
